@@ -17,7 +17,7 @@
     - **Kotlin**
   - Redis, Kafka ... -->
 
-🤗 I'm now open to **2023 Summer Software Engineering Internship** positions. Feel free to contact me!
+🤗 I'm now open to **2023 Summer Software Engineering Internship** positions. Feel free to connect and contact with me.
 
 <!--
 **huskyhehe/huskyhehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
