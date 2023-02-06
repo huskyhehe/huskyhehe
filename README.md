@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+🎓 I'm huskyhehe, a graduate student majoring in Information Systems (Computer Software Engineering track).
+
+🗃 Currently I'm working on a Co-op as a **Cloud Software Engineer** at **New York Life** from Jan to May 2023. 
+<!-- My main work includes:
+  - Boost sales agents efficiency by implementing the Retirement Assessment Module of an insurance planning and recommendation tool which ranks 6th most frequently used application using **JavaScript** (Node.js, React, Redux) at Digital Research & Development Lab.
+  - Consume **Java Spring** & **PostgreSQL** **RESTful** services using Axios. 
+  - Monitor performance by sending logs to **AWS CloudWatch**. -->
+
+🔭 I enjoy learning new things and pushing my boundaries of knowledge! I have been practicing various tech stacks through **40+ repos** on GitHub (Not only a LeetCoder 😝).
+<!-- You can find my repos using tags such as:
+  - **[#cracking-frameworks](https://github.com/topics/cracking-frameworks)**:
+    - **Java**: Spring, Kafka
+    - **Python**: Django, Django Channels, Celery, Flask ...
+    - **Javascript**: React, Express, Redux, Axios ... 
+    - **Kotlin**
+  - Redis, Kafka ... -->
+
+🤗 I'm now open to **2023 Summer Software Engineering Internship** positions. Feel free to contact me!
+
 <!--
 **huskyhehe/huskyhehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
