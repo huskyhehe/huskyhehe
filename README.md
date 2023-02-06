@@ -2,7 +2,7 @@
 
 🎓 I'm huskyhehe, a graduate student majoring in Information Systems (Computer Software Engineering track).
 
-🗃 Currently I'm working on a Co-op as a **Cloud Software Engineer** at **New York Life** from Jan to May 2023. 
+🗃 Currently I'm working on a Co-op as a **Cloud Software Engineer** at **New York Life** from January to May 2023. 
 <!-- My main work includes:
   - Boost sales agents efficiency by implementing the Retirement Assessment Module of an insurance planning and recommendation tool which ranks 6th most frequently used application using **JavaScript** (Node.js, React, Redux) at Digital Research & Development Lab.
   - Consume **Java Spring** & **PostgreSQL** **RESTful** services using Axios. 
