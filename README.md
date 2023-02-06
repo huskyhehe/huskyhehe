@@ -12,7 +12,12 @@
   
 <br>
 
-🔭 I enjoy learning new things and pushing my boundaries of knowledge! I have been practicing various tech stacks through **40+ repos** on GitHub (Not only a LeetCoder 😝).
+👀 I enjoy learning new things and pushing my boundaries of knowledge! I have been practicing various tech stacks through **40+ repos** on GitHub, mainly including:
+ - Languages: **Java, Python, JavaScript, Kotlin**
+ - Frameworks: **Spring, Django, Express, React**
+ - Libraries: **Celery, Redux**
+ - Databases: **MongoDB, MySQL, SQLite, PostgreSQL, Redis**
+ - Others: **WebSocket, Kafka, Docker**
 <!-- You can find my repos using tags such as:
   - **[#cracking-frameworks](https://github.com/topics/cracking-frameworks)**:
     - **Java**: Spring, Kafka
