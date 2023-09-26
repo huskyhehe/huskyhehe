@@ -4,7 +4,7 @@
 
 🎓 I'm huskyhehe, a graduate student majoring in Information Systems (Computer Software Engineering track).
 
-🗃 My journey through three impactful internship experiences.
+🗃 My journey through three impactful internship experiences:
   - **Software Engineer Intern** @**Siemens**, July 2023 - September 2023
   - **Software Engineer Intern** @**NIO**, June 2023 - July 2023
   - **Cloud Software Engineer Co-op** @**New York Life**, January 2023 - May 2023
