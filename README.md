@@ -18,9 +18,9 @@
 
 👀 I enjoy learning new things and pushing my boundaries of knowledge! I have been practicing various tech stacks through **40+ repos** on GitHub, mainly including:
  - Languages: **Java, Python, TypeScript, JavaScript, Kotlin**
- - Frameworks: **Spring, Django, Express, React, Angular**
- - Libraries: **Celery, Redux**
+ - Frameworks: **Spring, Express, Flask, React, Angular**
  - Databases: **MongoDB, MySQL, SQLite, PostgreSQL**
+ - Machine Learning: **PyTorch, CUDA, Optuna**
  - Others: **Redis, WebSocket, Kafka, Docker**
 <!-- You can find my repos using tags such as:
   - **[#cracking-frameworks](https://github.com/topics/cracking-frameworks)**:
