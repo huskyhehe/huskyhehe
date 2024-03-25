@@ -32,7 +32,7 @@
   
 <br>
 
-🤗 I'm now open to **Software Engineer** full-time positions. Feel free to connect and contact with me.
+🤗 I'm now open to **Software Engineer** full-time positions. Feel free to connect!
 
 <!--
 **huskyhehe/huskyhehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
